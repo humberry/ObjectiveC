@@ -22,7 +22,7 @@
 [Objective-C data types 2](https://www.tutorialspoint.com/objective_c/objective_c_data_types)<br>
 
 ```python
-# 
+#  
 ```
 
 External links disclaimer:<br>
