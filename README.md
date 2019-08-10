@@ -1,8 +1,6 @@
-# ObjectiveC
-============
-<br>
+# ObjectiveC<br>
 
-Data Types<br>
+### Data Types<br>
 
 | data type | value | ctype | python | value |
 | :---: | :---: | :---: | :---: | :---: |
@@ -19,7 +17,7 @@ Data Types<br>
 | void | no value | c_void_p | int or None | no value |
 | \*pointer | memory address | POINTER(c_int) or byref(obj) | - | - |
 
-http://omz-software.com/pythonista/docs/library/ctypes.html
+[Pythonista ctypes](http://omz-software.com/pythonista/docs/library/ctypes.html)<br>
 
 ```python
 # 
