@@ -18,7 +18,12 @@
 | \*pointer | memory address | POINTER(c_int) or byref(obj) | - | - |
 
 [Pythonista ctypes](http://omz-software.com/pythonista/docs/library/ctypes.html)<br>
+[Objective-C data types 1](https://code.tutsplus.com/tutorials/objective-c-succinctly-data-types--mobile-21986)<br>
+[Objective-C data types 2](https://www.tutorialspoint.com/objective_c/objective_c_data_types)<br>
 
 ```python
 # 
 ```
+
+External links disclaimer:<br>
+I'm not responsible for the content of external websites.<br>
