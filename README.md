@@ -21,9 +21,20 @@
 [Objective-C data types 1](https://code.tutsplus.com/tutorials/objective-c-succinctly-data-types--mobile-21986)<br>
 [Objective-C data types 2](https://www.tutorialspoint.com/objective_c/objective_c_data_types)<br>
 
+[Apple Developer Documentation](https://developer.apple.com/documentation/)<br>
+Language: Objective-C<br>
+
 ```python
-#  
+# set screen brightness to 60%
+from objc_util import *
+ObjCClass('UIScreen').mainScreen().setBrightness(0.6)
+
+# ObjCClass('UIScreen') => interface => type: NSObject
+# mainScreen() => property of UIScreen
+# setBrightness(0.6) => property of mainScreen => type: CGFloat (0.0 ... 1.0)
+
+# see also Pythonista => Examples => ObjC => ScreenBrightness.py
 ```
 
-External links disclaimer:<br>
+External link disclaimer:<br>
 I'm not responsible for the content of external websites.<br>
